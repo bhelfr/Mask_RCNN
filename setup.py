@@ -34,7 +34,7 @@ except Exception:
 setup(
     name='mask-rcnn',
     version='2.1',
-    url='https://github.com/matterport/Mask_RCNN',
+    url='https://github.com/bhelfr/Mask_RCNN',
     author='Matterport',
     author_email='waleed.abdulla@gmail.com',
     license='MIT',
